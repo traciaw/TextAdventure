@@ -73,6 +73,7 @@ namespace ChooseYourOwnAdventure
                     case "2":
                         Console.Clear();
                         Console.WriteLine("You set out for cottage");
+                        Cottage();
                         Console.WriteLine("It looks abandoned...");
                         Console.WriteLine("Should you walk through the front entrance or sneak around the back?");
                         Console.Write("Type 1 to WALK through the entrance or or 2 to SNEAK around: ");
