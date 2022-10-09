@@ -1,0 +1,15 @@
+C:\Users\traci\source\repos\WordAdventure\WordAdventure\bin\Debug\net6.0\WordAdventure.exe
+C:\Users\traci\source\repos\WordAdventure\WordAdventure\bin\Debug\net6.0\WordAdventure.deps.json
+C:\Users\traci\source\repos\WordAdventure\WordAdventure\bin\Debug\net6.0\WordAdventure.runtimeconfig.json
+C:\Users\traci\source\repos\WordAdventure\WordAdventure\bin\Debug\net6.0\WordAdventure.dll
+C:\Users\traci\source\repos\WordAdventure\WordAdventure\bin\Debug\net6.0\WordAdventure.pdb
+C:\Users\traci\source\repos\WordAdventure\WordAdventure\obj\Debug\net6.0\WordAdventure.csproj.AssemblyReference.cache
+C:\Users\traci\source\repos\WordAdventure\WordAdventure\obj\Debug\net6.0\WordAdventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\traci\source\repos\WordAdventure\WordAdventure\obj\Debug\net6.0\WordAdventure.AssemblyInfoInputs.cache
+C:\Users\traci\source\repos\WordAdventure\WordAdventure\obj\Debug\net6.0\WordAdventure.AssemblyInfo.cs
+C:\Users\traci\source\repos\WordAdventure\WordAdventure\obj\Debug\net6.0\WordAdventure.csproj.CoreCompileInputs.cache
+C:\Users\traci\source\repos\WordAdventure\WordAdventure\obj\Debug\net6.0\WordAdventure.dll
+C:\Users\traci\source\repos\WordAdventure\WordAdventure\obj\Debug\net6.0\refint\WordAdventure.dll
+C:\Users\traci\source\repos\WordAdventure\WordAdventure\obj\Debug\net6.0\WordAdventure.pdb
+C:\Users\traci\source\repos\WordAdventure\WordAdventure\obj\Debug\net6.0\WordAdventure.genruntimeconfig.cache
+C:\Users\traci\source\repos\WordAdventure\WordAdventure\obj\Debug\net6.0\ref\WordAdventure.dll
